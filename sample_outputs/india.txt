@@ -1,0 +1,10 @@
+==================================================
+ TRAVEL INTELLIGENCE SNAPSHOT: REPUBLIC OF INDIA
+==================================================
+  • Capital      : New Delhi
+  • Currency     : Indian rupee (₹)
+  • Population   : 1,380,004,385
+  • Languages    : English, Hindi, Tamil
+  • Region       : Asia (Southern Asia)
+  • Neighbours   : BGD, BTN, MMR, CHN, NPL, PAK
+==================================================
