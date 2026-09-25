@@ -1,0 +1,10 @@
+==================================================
+ TRAVEL INTELLIGENCE SNAPSHOT: JAPAN
+==================================================
+  • Capital      : Tokyo
+  • Currency     : Japanese yen (¥)
+  • Population   : 125,836,021
+  • Languages    : Japanese
+  • Region       : Asia (Eastern Asia)
+  • Neighbours   : None (Island or territory without land borders)
+==================================================
